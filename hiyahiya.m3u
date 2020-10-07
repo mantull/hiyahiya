@@ -13,4 +13,4 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1,group-title="LOKAL" RCTI
 https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/hdntl=exp=1602149290~acl=%2F*~data=hdntl~hmac=251f7d61ed5c13b51ede0fa7f4c37d50d25ff964a7a45f9e3fd8e12382acd293/rcti_fta-avc1_600000=4.m3u8
 #EXTINF:-1,group-title="LOKAL" I NEWS
-https://linier.rctiplus.id/live/eds/inews_fta/live_fta/hdntl=exp=1602151953~acl=%2f*~data=hdntl~hmac=f080ada89aa43a3abc743e9e166edd34e96db327474508817bdd803fcf1f8a6a/inews_fta-mp4a_64000=2.m3u8
+https://linier.rctiplus.id/live/eds/inews_fta/live_fta/hdntl=exp=1602151953~acl=%2f*~data=hdntl~hmac=f080ada89aa43a3abc743e9e166edd34e96db327474508817bdd803fcf1f8a6a/inews_fta-avc1_1000000=3.m3u8
