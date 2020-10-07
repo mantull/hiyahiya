@@ -1,1 +1,8 @@
-
+#EXTINF:-1,group-title="LOKAL" CNN 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,group-title="LOKAL" CNBC 
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1,group-title="LOKAL" ANTV 
+https://www.useetv.com/livetv/antv
