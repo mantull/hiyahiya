@@ -1,0 +1,12 @@
+#EXTINF:-1,group-title="LOKAL" CNN 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,group-title="LOKAL" CNBC 
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1,group-title="LOKAL" berita satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1,group-title="LOKAL" tvri
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1,group-title="LOKAL" trans tv
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
