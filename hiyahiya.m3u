@@ -14,8 +14,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1914699065_b744100_sl
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1,group-title="LOKAL" TV ONE
 http://210.210.155.35:80/session/0b808a8c-6c0b-11e9-88f0-c81f66f89318/qwr9ew/s/s105/index.m3u8
-#EXTINF:-1,group-title="LOKAL" TV ONE server 2
-https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/kompastv_all/skrz1j8exe/kompastv_480p/chunks.m3u8?nimblesessionid=212527337&wmsAuthSign=https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/kompastv_all/skrz1j8exe/kompastv_480p/chunks.m3u8?nimblesessionid=212527337&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIwIDI6NDU6MjQgQU0maGFzaF92YWx1ZT1ka0UvRXZkVldGQzM1THBXTmRQNlZ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTY2MTU3MHwxMTQuMTI0LjEzMC40OA====
 #EXTINF:-1,group-title= Bein Sports USA HD
 http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/1104?checkedby:hlscat.com
 #EXTINF:-1,group-title= Fox Sports 1 FHD NL
